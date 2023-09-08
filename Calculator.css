@@ -1,0 +1,33 @@
+*{
+    margin: auto;
+}
+
+.container{
+    text-align: center;
+}
+input{
+    font-size: 30px;
+    border: 2px solid rgb(39, 54, 184);
+    width: 250px;
+}
+button{
+    border-radius: 9px;
+    font-size: 25px;
+    width: 60px;
+    height: 50px;
+    background-color: gray;
+}
+.calculator{
+    background-color: gold;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 20px;
+}
+button:hover{
+    color: white;
+    background-color: black;
+    border: 2px solid rgb(245, 71, 71);
+}
+body{
+    background-color: gray;
+}
